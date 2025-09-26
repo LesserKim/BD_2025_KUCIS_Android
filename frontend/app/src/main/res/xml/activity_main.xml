@@ -22,7 +22,7 @@
         android:textSize="30sp"
         android:textStyle="bold" />
 
-    <!-- ===== ▼▼▼ 이 부분이 완전히 새로 바뀐 코드입니다 ▼▼▼ ===== -->
+    
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -59,8 +59,7 @@
         android:layout_width="0dp"
         android:layout_height="3dp"
         android:background="#0569FB" />
-    <!-- ===== ▲▲▲ 여기까지가 새로 바뀐 코드입니다 ▲▲▲ ===== -->
-
+   
 
     <EditText
         android:layout_width="match_parent"
